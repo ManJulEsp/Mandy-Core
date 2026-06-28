@@ -1,0 +1,6 @@
+-- mandy_notifications
+-- mandy_notification_preferences
+-- mandy_email_templates
+-- mandy_booking_reminders
+-- mandy_booking_confirmations
+-- mandy_notification_queue
