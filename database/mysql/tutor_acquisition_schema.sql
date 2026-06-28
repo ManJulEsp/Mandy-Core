@@ -1,0 +1,9 @@
+-- mandy_tutor_profiles
+-- mandy_languages
+-- mandy_specialties
+-- mandy_certifications
+-- mandy_educations
+-- mandy_social_links
+-- mandy_profile_views
+-- mandy_followers
+-- mandy_tutor_statistics

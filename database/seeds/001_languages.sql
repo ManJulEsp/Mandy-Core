@@ -1,1 +1,1 @@
--- Seed languages: English, Spanish, French, German, Dutch
+-- English, Spanish, Dutch, French, German
