@@ -1,0 +1,6 @@
+-- mandy_tutor_profiles
+-- mandy_languages
+-- mandy_specialties
+-- mandy_tutor_languages
+-- mandy_tutor_specialties
+-- mandy_reviews
