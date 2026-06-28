@@ -1,0 +1,10 @@
+@startuml
+actor Student
+participant Booking
+participant Payment
+participant Meeting
+Student -> Booking : Create booking
+Booking -> Payment : Charge
+Payment -> Meeting : Create meeting
+Meeting --> Student : Confirmation
+@enduml

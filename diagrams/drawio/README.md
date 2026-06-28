@@ -1,1 +1,1 @@
-# Place editable Draw.io wireframes here.
+# Editable Draw.io diagrams and wireframes.
