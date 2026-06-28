@@ -1,1 +1,1 @@
-# Editable Draw.io diagrams will be stored here.
+# Place editable Draw.io wireframes here.

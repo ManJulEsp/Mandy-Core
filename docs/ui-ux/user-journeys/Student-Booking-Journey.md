@@ -1,0 +1,1 @@
+Homepage → Search Tutors → Tutor Profile → Select Time Slot → Pay → Meeting Created → Attend Lesson → Leave Review
