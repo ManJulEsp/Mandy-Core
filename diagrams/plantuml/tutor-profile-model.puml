@@ -1,0 +1,7 @@
+@startuml
+class TutorProfile
+class Language
+class Specialty
+TutorProfile --> Language
+TutorProfile --> Specialty
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+class User
+class Role
+class Permission
+User --> Role
+Role --> Permission
+@enduml

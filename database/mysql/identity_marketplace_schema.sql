@@ -1,0 +1,8 @@
+-- users
+-- roles
+-- permissions
+-- user_roles
+-- tutor_profiles
+-- languages
+-- specialties
+-- tutor_specialties

@@ -1,18 +1,16 @@
 # Marketplace Domain
 
-Core Capabilities
-- Tutor discovery
-- Search and filtering
-- Featured tutors
-- Ratings and reviews
-- Tutor comparison
-
-Suggested Filters
-- Language
-- Native language
-- Price
-- Availability
+Core Entities
+- Tutor Profile
+- Languages
 - Specialties
+- Reviews
+- Availability
+
+Search Filters
+- Language
+- Price
 - Country
 - Rating
-- Instant booking
+- Availability
+- Instant Booking
