@@ -1,0 +1,5 @@
+{
+  "name": "Mandy Core",
+  "dockerComposeFile": "../docker/docker-compose.yml",
+  "service": "wordpress"
+}
