@@ -1,0 +1,5 @@
+-- mandy_meetings
+-- mandy_meeting_participants
+-- mandy_meeting_recordings
+-- mandy_attendance
+-- mandy_chat_messages

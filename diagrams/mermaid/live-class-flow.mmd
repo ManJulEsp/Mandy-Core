@@ -1,0 +1,8 @@
+flowchart LR
+BookingConfirmed-->PaymentCaptured
+PaymentCaptured-->GenerateMeeting
+GenerateMeeting-->SendInvitations
+SendInvitations-->LessonStarts
+LessonStarts-->AttendanceTracking
+AttendanceTracking-->LessonCompleted
+LessonCompleted-->ReviewRequest
