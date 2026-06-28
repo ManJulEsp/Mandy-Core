@@ -1,0 +1,4 @@
+-- mandy_search_impressions
+-- mandy_followers
+-- mandy_profile_views
+-- mandy_tutor_statistics
