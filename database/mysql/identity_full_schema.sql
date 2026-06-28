@@ -1,0 +1,9 @@
+-- users
+-- profiles
+-- roles
+-- permissions
+-- role_permissions
+-- user_profiles
+-- sessions
+-- password_resets
+-- email_verifications

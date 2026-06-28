@@ -1,1 +1,1 @@
-# Identity application services
+# Registration, Authentication and Profile services.
