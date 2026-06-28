@@ -1,0 +1,7 @@
+@startuml
+class Calendar
+class Availability
+class TimeSlot
+Calendar --> Availability
+Availability --> TimeSlot
+@enduml

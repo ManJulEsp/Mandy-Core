@@ -1,0 +1,7 @@
+@startuml
+class Booking
+class Payment
+class Meeting
+Booking --> Payment
+Booking --> Meeting
+@enduml

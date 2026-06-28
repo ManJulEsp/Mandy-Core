@@ -1,0 +1,7 @@
+-- availability
+-- availability_exceptions
+-- time_slots
+-- bookings
+-- booking_attendance
+-- meetings
+-- recordings
