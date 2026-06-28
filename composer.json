@@ -1,0 +1,10 @@
+{
+  "name": "manjulesp/mandy-core",
+  "description": "Mandy Core",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "MandyCore\\\\": "src/"
+    }
+  }
+}
