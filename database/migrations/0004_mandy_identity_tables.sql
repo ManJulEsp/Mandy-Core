@@ -1,0 +1,5 @@
+-- Create mandy_profiles
+-- Create mandy_sessions
+-- Create mandy_email_verifications
+-- Create mandy_password_resets
+-- Create mandy_audit_logs
