@@ -1,0 +1,4 @@
+-- mandy_bookings
+-- mandy_booking_items
+-- mandy_booking_status_history
+-- mandy_booking_participants

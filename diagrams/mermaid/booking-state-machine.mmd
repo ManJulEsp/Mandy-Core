@@ -1,8 +1,5 @@
 stateDiagram-v2
-[*] --> Draft
-Draft --> PendingPayment
-PendingPayment --> Confirmed
+Pending --> Confirmed
 Confirmed --> Completed
+Pending --> Cancelled
 Confirmed --> Cancelled
-Confirmed --> Rescheduled
-Confirmed --> NoShow
