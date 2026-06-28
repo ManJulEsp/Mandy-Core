@@ -1,7 +1,7 @@
 <?php
 namespace MandyCore\Domain\Identity\Events;
 
-final class UserRegistered
+final class EmailVerified
 {
     public function __construct(public readonly int $userId) {}
 }
