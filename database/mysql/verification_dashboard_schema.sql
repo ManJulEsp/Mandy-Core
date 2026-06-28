@@ -1,0 +1,5 @@
+-- mandy_verifications
+-- mandy_verification_documents
+-- mandy_verification_audits
+-- mandy_waitlists
+-- mandy_notifications
