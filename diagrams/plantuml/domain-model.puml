@@ -1,0 +1,12 @@
+@startuml
+class User
+class Tutor
+class Student
+class Booking
+class Meeting
+class Payment
+User <|-- Tutor
+User <|-- Student
+Booking --> Meeting
+Booking --> Payment
+@enduml

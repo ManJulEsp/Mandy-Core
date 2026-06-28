@@ -1,1 +1,14 @@
--- Initial schema placeholder
+-- Core tables
+-- users
+-- tutors
+-- students
+-- languages
+-- availabilities
+-- bookings
+-- meetings
+-- payments
+-- reviews
+-- messages
+-- notifications
+-- attendance
+-- recordings

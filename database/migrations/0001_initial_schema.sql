@@ -1,0 +1,6 @@
+-- Initial tables
+-- users
+-- tutors
+-- students
+-- bookings
+-- meetings

@@ -1,0 +1,1 @@
+-- Migration placeholder for core tables

@@ -1,0 +1,7 @@
+erDiagram
+USER ||--o{ TUTOR : has
+USER ||--o{ STUDENT : has
+TUTOR ||--o{ AVAILABILITY : defines
+STUDENT ||--o{ BOOKING : creates
+BOOKING ||--|| MEETING : generates
+BOOKING ||--o{ PAYMENT : produces

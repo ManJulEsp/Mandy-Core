@@ -1,0 +1,6 @@
+sequenceDiagram
+Student->>Marketplace: Select Tutor
+Student->>Booking: Create Booking
+Booking->>Payment: Charge
+Payment->>Meetings: Create Meeting
+Meetings-->>Student: Confirmation
