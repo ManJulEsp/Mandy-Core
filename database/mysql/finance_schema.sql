@@ -1,0 +1,5 @@
+-- mandy_commissions
+-- mandy_payout_accounts
+-- mandy_payouts
+-- mandy_refunds
+-- mandy_transactions
