@@ -1,3 +1,6 @@
 <?php
 namespace MandyCore\Infrastructure\Security;
-final class EmailVerificationService {}
+
+final class EmailVerificationService
+{
+}
