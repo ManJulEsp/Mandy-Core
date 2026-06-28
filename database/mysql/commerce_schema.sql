@@ -1,0 +1,7 @@
+-- mandy_lesson_types
+-- mandy_prices
+-- mandy_price_rules
+-- mandy_currencies
+-- mandy_coupons
+-- mandy_taxes
+-- mandy_invoices
