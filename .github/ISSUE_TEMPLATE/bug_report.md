@@ -1,3 +1,3 @@
 ---
-name: Bug report
+name: Bug Report
 ---

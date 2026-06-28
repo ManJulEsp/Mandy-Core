@@ -1,2 +1,2 @@
-name: PHP
-on: [push]
+name: PHP CI
+on: [push, pull_request]

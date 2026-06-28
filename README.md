@@ -1,3 +1,3 @@
 # Mandy Core
 
-An open-source platform for live learning marketplaces.
+An open-source platform for building live-learning marketplaces.

@@ -1,5 +1,2 @@
 <?php
-/**
- * Plugin Name: Mandy Core
- */
-defined('ABSPATH')||exit;
+/** Plugin Name: Mandy Core */
