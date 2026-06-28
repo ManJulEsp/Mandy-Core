@@ -1,0 +1,5 @@
+-- mandy_availabilities
+-- mandy_availability_rules
+-- mandy_availability_exceptions
+-- mandy_time_slots
+-- mandy_timezones
