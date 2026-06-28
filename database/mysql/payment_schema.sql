@@ -1,0 +1,4 @@
+-- mandy_payment_intents
+-- mandy_payment_methods
+-- mandy_payment_events
+-- mandy_payment_webhooks
